@@ -1,0 +1,84 @@
+.botaocadastrar{
+    border-radius: 40px;
+    border: 2px solid gray;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+.boxprincipal {
+    background: linear-gradient(135deg, #71ff2f 0%, #264e00 100%);
+    background-attachment: fixed;
+}
+
+.box1 {
+    border-radius: 40px;
+    background-color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;
+    width: 400px;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.box2 {
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+.titulologin {
+    color: #264e00;
+    text-align: center;
+    padding: 10px;
+}
+
+.botaologin {
+    color: #FFFFFF;
+    background-color: #264e00;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.botaologin:hover {
+    border: 1px solid #264e00;
+    border-radius: 10px;
+    color: black;
+}
+
+.titulologar {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #6D6D6D;
+}
+
+.tabela{
+    width: 95%;
+    margin: 30px;
+    align-self: center;
+}
+.tabela, th, td{
+    border-collapse: collapse; /*define a separação entre as bordar*/
+    padding: 10px;
+    text-align: left;
+    border: 1px solid rgb(160 160 160);
+}
+th{
+    background-color: rgb(155, 240, 129);
+}
+
+.botaoadd {
+    color: #FFFFFF;
+    background-color: #264e00;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.botaoadd:hover {
+    background-color: #408301;
+    border-radius: 10px;
+    color: white;
+}
